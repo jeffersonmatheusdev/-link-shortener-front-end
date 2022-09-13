@@ -1,7 +1,23 @@
-# Vue 3 + Vite
+# Front-end | Encurtador de links
+##### Uma "casca" simples apenas para demonstar o consumo da API fornecida pelo back-end desenvolvida no projeto anterior.
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Tecnologia Utilizada
 
-## Recommended IDE Setup
+- VueJS
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+## Encurtando um link para exemplo:
+
+![Foo](https://github.com/jeffersonmatheusdev/-link-shortener-front-end/blob/main/prints/screen-recording.gif?raw=true)
+
+
+## Visualizando o resultado:
+```
+yarn install
+yarn run dev
+```
+
+## Link do projeto anterior contendo o back-end do projeto:
+```
+https://github.com/jeffersonmatheusdev/link-shortener-back-end
+```
